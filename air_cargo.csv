@@ -1,0 +1,1587 @@
+Airport Name,Year,City,Airport ID,Measure,Value
+Memphis International,2000,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"6,318"
+Ted Stevens Anchorage International,2000,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"8,084"
+Louisville Muhammad Ali International,2000,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"3,987"
+Miami International,2000,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"2,929"
+Los Angeles International,2000,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"2,892"
+Cincinnati/Northern Kentucky International,2000,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),912
+Chicago O'Hare International,2000,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"2,062"
+Indianapolis International,2000,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,884"
+Dallas-Fort Worth International,2000,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,691"
+Ontario International,2000,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,220"
+Metropolitan Oakland International,2000,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,811"
+John F Kennedy International,2000,New York,JFK,All-cargo operations landed weight (thousands of short tons),"2,793"
+Hartsfield - Jackson Atlanta International,2000,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,090"
+Newark Liberty International,2000,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,961"
+Daniel K Inouye International,2000,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),692
+Seattle-Tacoma International,2000,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),"1,060"
+Philadelphia International,2000,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),"1,454"
+George Bush Intercontinental/Houston,2000,Houston,IAH,All-cargo operations landed weight (thousands of short tons),480
+Chicago/Rockford International,2000,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),654
+Phoenix Sky Harbor International,2000,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),920
+Portland International,2000,Portland,PDX,All-cargo operations landed weight (thousands of short tons),882
+Denver International,2000,Denver,DEN,All-cargo operations landed weight (thousands of short tons),900
+Tampa International,2000,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),228
+Luis Munoz Marin International,2000,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),485
+Baltimore/Washington International Thurgood Marshall,2000,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),305
+Rickenbacker International,2000,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),310
+Salt Lake City International,2000,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),751
+Minneapolis-St Paul International/Wold-Chamberlain,2000,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),622
+San Francisco International,2000,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),"1,267"
+Orlando International,2000,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),672
+General Edward Lawrence Logan International,2000,Boston,BOS,All-cargo operations landed weight (thousands of short tons),703
+Bradley International,2000,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),510
+San Antonio International,2000,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),326
+Fort Worth Alliance,2000,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),508
+Detroit Metropolitan Wayne County,2000,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),389
+Boeing Field/King County International,2000,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),428
+El Paso International,2000,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),319
+Piedmont Triad International,2000,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),276
+Laredo International,2000,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),218
+Charlotte/Douglas International,2000,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),467
+General Mitchell International,2000,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),297
+San Diego International,2000,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),354
+Kansas City International,2000,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),453
+Pittsburgh International,2000,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),240
+Albuquerque International Sunport,2000,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),326
+Sacramento Mather,2000,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),548
+Reno/Tahoe International,2000,Reno,RNO,All-cargo operations landed weight (thousands of short tons),193
+Manchester,2000,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),240
+Austin-Bergstrom International,2000,Austin,AUS,All-cargo operations landed weight (thousands of short tons),491
+Richmond International,2000,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),317
+Raleigh-Durham International,2000,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),328
+Rafael Hernandez,2000,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),342
+Jacksonville International,2000,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),224
+Washington Dulles International,2000,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),396
+Fort Lauderdale/Hollywood International,2000,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),588
+Spokane International,2000,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),340
+Greenville Spartanburg International,2000,Greer,GSP,All-cargo operations landed weight (thousands of short tons),96
+Huntsville International-Carl T Jones Field,2000,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),243
+Columbia Metropolitan,2000,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),473
+Eppley Airfield,2000,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),342
+Harrisburg International,2000,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),188
+Tulsa International,2000,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),159
+Cleveland-Hopkins International,2000,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),277
+McCarran International,2000,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),179
+Louis Armstrong New Orleans International,2000,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),241
+St Louis Lambert International,2000,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),336
+Valley International,2000,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),69
+Joe Foss Field,2000,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),211
+The Eastern Iowa,2000,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),129
+Syracuse Hancock International,2000,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),237
+Charleston AFB/International,2000,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),20
+Boise Air Terminal/Gowen Field,2000,Boise,BOI,All-cargo operations landed weight (thousands of short tons),171
+Buffalo Niagara International,2000,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),161
+Nashville International,2000,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),151
+Shreveport Regional,2000,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),154
+Ellison Onizuka Kona International at Keahole,2000,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),129
+McGhee Tyson,2000,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),162
+Hector International,2000,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),55
+Greater Rochester International,2000,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),223
+Des Moines International,2000,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),381
+Will Rogers World,2000,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),179
+Kahului,2000,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),207
+Norman Y Mineta San Jose International,2000,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),343
+Theodore Francis Green State,2000,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),73
+Wichita Dwight D Eisenhower National,2000,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),119
+Gerald R Ford International,2000,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),144
+Willow Run,2000,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),380
+Norfolk International,2000,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),91
+Capital Region International,2000,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),98
+Fort Wayne International,2000,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),480
+Hilo International,2000,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),87
+Guam International,2000,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),0
+Great Falls International,2000,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),113
+Southwest Georgia Regional,2000,Albany,ABY,All-cargo operations landed weight (thousands of short tons),125
+Southwest Florida International,2000,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),61
+Birmingham-Shuttlesworth International,2000,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),117
+New York Stewart International,2000,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),138
+Albany International,2000,Albany,ALB,All-cargo operations landed weight (thousands of short tons),90
+Mobile Downtown,2000,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),95
+Tucson International,2000,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),142
+Springfield-Branson National,2000,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),100
+Roanoke-Blacksburg Regional/Woodrum Field,2000,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),83
+Lihue,2000,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),101
+Toledo Express,2000,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),886
+Fresno Yosemite International,2000,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),151
+General Downing - Peoria International,2000,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),160
+Fairbanks International,2000,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),555
+City of Colorado Springs Municipal,2000,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),86
+Bishop International,2000,Flint,FNT,All-cargo operations landed weight (thousands of short tons),78
+Jackson-Medgar Wiley Evers International,2000,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),115
+James M Cox Dayton International,2000,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),"2,233"
+Bangor International,2000,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),25
+Brownsville/South Padre Island International,2000,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),65
+Grand Forks International,2000,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),45
+Portsmouth International at Pease,2000,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),45
+Memphis International,2010,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"9,772"
+Ted Stevens Anchorage International,2010,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"9,732"
+Louisville Muhammad Ali International,2010,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"5,319"
+Miami International,2010,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,453"
+Los Angeles International,2010,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"1,977"
+Cincinnati/Northern Kentucky International,2010,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"1,216"
+Chicago O'Hare International,2010,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"2,448"
+Indianapolis International,2010,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,359"
+Dallas-Fort Worth International,2010,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,516"
+Ontario International,2010,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,121"
+Metropolitan Oakland International,2010,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,324"
+John F Kennedy International,2010,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,962"
+Hartsfield - Jackson Atlanta International,2010,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,314"
+Newark Liberty International,2010,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,489"
+Daniel K Inouye International,2010,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,062"
+Seattle-Tacoma International,2010,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),697
+Philadelphia International,2010,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),994
+George Bush Intercontinental/Houston,2010,Houston,IAH,All-cargo operations landed weight (thousands of short tons),763
+Chicago/Rockford International,2010,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),459
+Phoenix Sky Harbor International,2010,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),607
+Portland International,2010,Portland,PDX,All-cargo operations landed weight (thousands of short tons),531
+Denver International,2010,Denver,DEN,All-cargo operations landed weight (thousands of short tons),619
+Tampa International,2010,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),159
+Luis Munoz Marin International,2010,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),441
+Baltimore/Washington International Thurgood Marshall,2010,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),236
+Rickenbacker International,2010,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),342
+Salt Lake City International,2010,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),424
+Minneapolis-St Paul International/Wold-Chamberlain,2010,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),512
+San Francisco International,2010,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),652
+Orlando International,2010,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),398
+General Edward Lawrence Logan International,2010,Boston,BOS,All-cargo operations landed weight (thousands of short tons),409
+Bradley International,2010,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),365
+San Antonio International,2010,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),337
+Fort Worth Alliance,2010,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),350
+Detroit Metropolitan Wayne County,2010,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),276
+Boeing Field/King County International,2010,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),453
+Sacramento International,2010,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),135
+El Paso International,2010,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),264
+Piedmont Triad International,2010,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),306
+Laredo International,2010,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),212
+Charlotte/Douglas International,2010,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),202
+General Mitchell International,2010,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),248
+San Diego International,2010,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),315
+Kansas City International,2010,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),216
+Pittsburgh International,2010,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),210
+Albuquerque International Sunport,2010,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),299
+Sacramento Mather,2010,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),147
+Reno/Tahoe International,2010,Reno,RNO,All-cargo operations landed weight (thousands of short tons),175
+Manchester,2010,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),249
+Austin-Bergstrom International,2010,Austin,AUS,All-cargo operations landed weight (thousands of short tons),199
+Richmond International,2010,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),170
+Raleigh-Durham International,2010,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),230
+Rafael Hernandez,2010,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),257
+Jacksonville International,2010,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),204
+Washington Dulles International,2010,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),225
+Fort Lauderdale/Hollywood International,2010,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),238
+Spokane International,2010,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),220
+Greenville Spartanburg International,2010,Greer,GSP,All-cargo operations landed weight (thousands of short tons),76
+Huntsville International-Carl T Jones Field,2010,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),167
+Columbia Metropolitan,2010,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),200
+Eppley Airfield,2010,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),202
+Harrisburg International,2010,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),172
+Tulsa International,2010,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),160
+Cleveland-Hopkins International,2010,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),190
+McCarran International,2010,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),177
+Louis Armstrong New Orleans International,2010,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),173
+Lubbock Preston Smith International,2010,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),134
+St Louis Lambert International,2010,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),186
+Valley International,2010,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),127
+Joe Foss Field,2010,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),166
+The Eastern Iowa,2010,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),103
+Syracuse Hancock International,2010,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),157
+Charleston AFB/International,2010,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),178
+Boise Air Terminal/Gowen Field,2010,Boise,BOI,All-cargo operations landed weight (thousands of short tons),160
+Buffalo Niagara International,2010,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),139
+Nashville International,2010,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),122
+Shreveport Regional,2010,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),148
+Ellison Onizuka Kona International at Keahole,2010,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),100
+McGhee Tyson,2010,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),157
+Hector International,2010,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),11
+Greater Rochester International,2010,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),133
+Stockton Metropolitan,2010,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),0
+Des Moines International,2010,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),217
+Will Rogers World,2010,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),107
+Kahului,2010,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),110
+Norman Y Mineta San Jose International,2010,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),156
+Theodore Francis Green State,2010,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),49
+Wichita Dwight D Eisenhower National,2010,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),100
+Gerald R Ford International,2010,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),109
+Willow Run,2010,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),94
+Norfolk International,2010,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),107
+Capital Region International,2010,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),58
+Fort Wayne International,2010,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),85
+Hilo International,2010,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),99
+Guam International,2010,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),14
+Great Falls International,2010,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),78
+Southwest Georgia Regional,2010,Albany,ABY,All-cargo operations landed weight (thousands of short tons),83
+Southwest Florida International,2010,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),64
+Birmingham-Shuttlesworth International,2010,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),74
+New York Stewart International,2010,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),79
+Albany International,2010,Albany,ALB,All-cargo operations landed weight (thousands of short tons),77
+Long Beach /Daugherty Field/,2010,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),91
+Mobile Downtown,2010,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),101
+Tucson International,2010,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),75
+Springfield-Branson National,2010,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),96
+Roanoke-Blacksburg Regional/Woodrum Field,2010,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),63
+Bill and Hillary Clinton National/Adams Field,2010,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),79
+Lihue,2010,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),44
+Toledo Express,2010,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),447
+Fresno Yosemite International,2010,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),59
+General Downing - Peoria International,2010,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),92
+Fairbanks International,2010,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),105
+City of Colorado Springs Municipal,2010,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),52
+Bishop International,2010,Flint,FNT,All-cargo operations landed weight (thousands of short tons),39
+Jackson-Medgar Wiley Evers International,2010,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),36
+James M Cox Dayton International,2010,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),22
+Bangor International,2010,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),94
+Brownsville/South Padre Island International,2010,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),7
+Grand Forks International,2010,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),76
+Portsmouth International at Pease,2010,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),1
+St Pete-Clearwater International,2010,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),65
+Memphis International,2011,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"10,152"
+Ted Stevens Anchorage International,2011,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"8,887"
+Louisville Muhammad Ali International,2011,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"5,491"
+Miami International,2011,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,317"
+Los Angeles International,2011,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"2,022"
+Cincinnati/Northern Kentucky International,2011,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"1,410"
+Chicago O'Hare International,2011,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"2,184"
+Indianapolis International,2011,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,407"
+Dallas-Fort Worth International,2011,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,532"
+Ontario International,2011,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,157"
+Metropolitan Oakland International,2011,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,340"
+John F Kennedy International,2011,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,972"
+Hartsfield - Jackson Atlanta International,2011,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,328"
+Newark Liberty International,2011,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,525"
+Daniel K Inouye International,2011,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,057"
+Seattle-Tacoma International,2011,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),679
+Philadelphia International,2011,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),975
+George Bush Intercontinental/Houston,2011,Houston,IAH,All-cargo operations landed weight (thousands of short tons),808
+Chicago/Rockford International,2011,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),444
+Phoenix Sky Harbor International,2011,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),620
+Portland International,2011,Portland,PDX,All-cargo operations landed weight (thousands of short tons),567
+Denver International,2011,Denver,DEN,All-cargo operations landed weight (thousands of short tons),605
+Tampa International,2011,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),157
+Luis Munoz Marin International,2011,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),434
+Baltimore/Washington International Thurgood Marshall,2011,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),242
+Rickenbacker International,2011,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),327
+Salt Lake City International,2011,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),428
+Minneapolis-St Paul International/Wold-Chamberlain,2011,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),484
+San Francisco International,2011,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),622
+Orlando International,2011,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),403
+General Edward Lawrence Logan International,2011,Boston,BOS,All-cargo operations landed weight (thousands of short tons),403
+Bradley International,2011,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),375
+San Antonio International,2011,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),374
+Fort Worth Alliance,2011,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),449
+Detroit Metropolitan Wayne County,2011,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),301
+Boeing Field/King County International,2011,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),455
+Sacramento International,2011,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),139
+El Paso International,2011,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),267
+Piedmont Triad International,2011,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),304
+Laredo International,2011,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),227
+Charlotte/Douglas International,2011,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),199
+General Mitchell International,2011,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),245
+San Diego International,2011,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),325
+Kansas City International,2011,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),212
+Pittsburgh International,2011,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),206
+Albuquerque International Sunport,2011,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),297
+Sacramento Mather,2011,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),84
+Reno/Tahoe International,2011,Reno,RNO,All-cargo operations landed weight (thousands of short tons),186
+Manchester,2011,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),261
+Austin-Bergstrom International,2011,Austin,AUS,All-cargo operations landed weight (thousands of short tons),208
+Richmond International,2011,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),177
+Raleigh-Durham International,2011,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),215
+Rafael Hernandez,2011,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),333
+Jacksonville International,2011,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),198
+Washington Dulles International,2011,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),223
+Fort Lauderdale/Hollywood International,2011,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),213
+Spokane International,2011,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),217
+Greenville Spartanburg International,2011,Greer,GSP,All-cargo operations landed weight (thousands of short tons),96
+Huntsville International-Carl T Jones Field,2011,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),223
+Columbia Metropolitan,2011,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),191
+Eppley Airfield,2011,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),197
+Harrisburg International,2011,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),173
+Tulsa International,2011,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),165
+Cleveland-Hopkins International,2011,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),185
+McCarran International,2011,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),174
+Louis Armstrong New Orleans International,2011,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),161
+Lubbock Preston Smith International,2011,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),108
+St Louis Lambert International,2011,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),192
+Valley International,2011,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),119
+Joe Foss Field,2011,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),172
+The Eastern Iowa,2011,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),105
+Syracuse Hancock International,2011,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),158
+Charleston AFB/International,2011,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),147
+Boise Air Terminal/Gowen Field,2011,Boise,BOI,All-cargo operations landed weight (thousands of short tons),162
+Buffalo Niagara International,2011,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),146
+Nashville International,2011,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),131
+Shreveport Regional,2011,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),147
+Ellison Onizuka Kona International at Keahole,2011,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),103
+McGhee Tyson,2011,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),156
+Hector International,2011,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),13
+Greater Rochester International,2011,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),129
+Stockton Metropolitan,2011,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),0
+Des Moines International,2011,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),213
+Will Rogers World,2011,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),107
+Kahului,2011,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),112
+Norman Y Mineta San Jose International,2011,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),151
+Theodore Francis Green State,2011,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),49
+Wichita Dwight D Eisenhower National,2011,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),101
+Gerald R Ford International,2011,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),113
+Willow Run,2011,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),123
+Norfolk International,2011,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),107
+Capital Region International,2011,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),60
+Fort Wayne International,2011,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),85
+Hilo International,2011,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),104
+Guam International,2011,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),31
+Great Falls International,2011,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),77
+Southwest Georgia Regional,2011,Albany,ABY,All-cargo operations landed weight (thousands of short tons),82
+Southwest Florida International,2011,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),65
+Birmingham-Shuttlesworth International,2011,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),78
+New York Stewart International,2011,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),65
+Albany International,2011,Albany,ALB,All-cargo operations landed weight (thousands of short tons),82
+Long Beach /Daugherty Field/,2011,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),88
+Mobile Downtown,2011,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),95
+Tucson International,2011,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),75
+Springfield-Branson National,2011,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),95
+Roanoke-Blacksburg Regional/Woodrum Field,2011,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),60
+Bill and Hillary Clinton National/Adams Field,2011,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),74
+Lihue,2011,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),44
+Toledo Express,2011,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),325
+Fresno Yosemite International,2011,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),53
+General Downing - Peoria International,2011,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),75
+Fairbanks International,2011,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),61
+City of Colorado Springs Municipal,2011,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),54
+Bishop International,2011,Flint,FNT,All-cargo operations landed weight (thousands of short tons),37
+Jackson-Medgar Wiley Evers International,2011,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),36
+James M Cox Dayton International,2011,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),22
+March ARB,2011,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),0
+Bangor International,2011,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),68
+Brownsville/South Padre Island International,2011,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),10
+Grand Forks International,2011,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),74
+Gallup Municipal,2011,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Portsmouth International at Pease,2011,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),9
+Tucumcari Municipal,2011,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2011,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),0
+St Pete-Clearwater International,2011,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),66
+Memphis International,2012,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"10,492"
+Ted Stevens Anchorage International,2012,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"8,261"
+Louisville Muhammad Ali International,2012,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"5,548"
+Miami International,2012,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,574"
+Los Angeles International,2012,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"2,102"
+Cincinnati/Northern Kentucky International,2012,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"1,594"
+Chicago O'Hare International,2012,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"2,278"
+Indianapolis International,2012,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,470"
+Dallas-Fort Worth International,2012,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,544"
+Ontario International,2012,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,181"
+Metropolitan Oakland International,2012,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,323"
+John F Kennedy International,2012,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,747"
+Hartsfield - Jackson Atlanta International,2012,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,014"
+Newark Liberty International,2012,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,427"
+Daniel K Inouye International,2012,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),988
+Seattle-Tacoma International,2012,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),645
+Philadelphia International,2012,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),942
+George Bush Intercontinental/Houston,2012,Houston,IAH,All-cargo operations landed weight (thousands of short tons),788
+Chicago/Rockford International,2012,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),411
+Phoenix Sky Harbor International,2012,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),650
+Portland International,2012,Portland,PDX,All-cargo operations landed weight (thousands of short tons),581
+Denver International,2012,Denver,DEN,All-cargo operations landed weight (thousands of short tons),602
+Tampa International,2012,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),156
+Luis Munoz Marin International,2012,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),425
+Baltimore/Washington International Thurgood Marshall,2012,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),244
+Rickenbacker International,2012,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),347
+Salt Lake City International,2012,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),438
+Minneapolis-St Paul International/Wold-Chamberlain,2012,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),438
+San Francisco International,2012,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),599
+Orlando International,2012,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),363
+General Edward Lawrence Logan International,2012,Boston,BOS,All-cargo operations landed weight (thousands of short tons),390
+Bradley International,2012,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),364
+San Antonio International,2012,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),405
+Fort Worth Alliance,2012,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),317
+Detroit Metropolitan Wayne County,2012,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),333
+Boeing Field/King County International,2012,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),396
+Sacramento International,2012,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),144
+El Paso International,2012,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),277
+Piedmont Triad International,2012,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),303
+Laredo International,2012,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),232
+Charlotte/Douglas International,2012,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),175
+General Mitchell International,2012,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),222
+San Diego International,2012,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),341
+Kansas City International,2012,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),214
+Pittsburgh International,2012,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),197
+Albuquerque International Sunport,2012,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),284
+Sacramento Mather,2012,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),170
+Reno/Tahoe International,2012,Reno,RNO,All-cargo operations landed weight (thousands of short tons),219
+Manchester,2012,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),260
+Austin-Bergstrom International,2012,Austin,AUS,All-cargo operations landed weight (thousands of short tons),210
+Richmond International,2012,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),184
+Raleigh-Durham International,2012,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),191
+Rafael Hernandez,2012,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),411
+Jacksonville International,2012,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),195
+Washington Dulles International,2012,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),233
+Fort Lauderdale/Hollywood International,2012,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),224
+Spokane International,2012,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),220
+Greenville Spartanburg International,2012,Greer,GSP,All-cargo operations landed weight (thousands of short tons),102
+Huntsville International-Carl T Jones Field,2012,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),219
+Columbia Metropolitan,2012,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),191
+Eppley Airfield,2012,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),199
+Harrisburg International,2012,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),169
+Tulsa International,2012,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),158
+Cleveland-Hopkins International,2012,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),178
+McCarran International,2012,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),185
+Louis Armstrong New Orleans International,2012,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),151
+Lubbock Preston Smith International,2012,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),111
+St Louis Lambert International,2012,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),175
+Valley International,2012,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),117
+Joe Foss Field,2012,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),72
+The Eastern Iowa,2012,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),125
+Syracuse Hancock International,2012,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),158
+Charleston AFB/International,2012,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),129
+Boise Air Terminal/Gowen Field,2012,Boise,BOI,All-cargo operations landed weight (thousands of short tons),160
+Buffalo Niagara International,2012,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),147
+Nashville International,2012,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),117
+Shreveport Regional,2012,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),133
+Ellison Onizuka Kona International at Keahole,2012,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),93
+McGhee Tyson,2012,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),157
+Hector International,2012,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),0
+Greater Rochester International,2012,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),131
+Stockton Metropolitan,2012,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),0
+Des Moines International,2012,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),216
+Will Rogers World,2012,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),107
+Kahului,2012,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),114
+Norman Y Mineta San Jose International,2012,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),128
+Theodore Francis Green State,2012,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),52
+Wichita Dwight D Eisenhower National,2012,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),100
+Gerald R Ford International,2012,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),113
+Willow Run,2012,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),109
+Norfolk International,2012,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),111
+Capital Region International,2012,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),69
+Fort Wayne International,2012,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),89
+Hilo International,2012,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),96
+Guam International,2012,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),45
+Great Falls International,2012,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),78
+Southwest Georgia Regional,2012,Albany,ABY,All-cargo operations landed weight (thousands of short tons),79
+Southwest Florida International,2012,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),60
+Birmingham-Shuttlesworth International,2012,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),85
+New York Stewart International,2012,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),69
+Albany International,2012,Albany,ALB,All-cargo operations landed weight (thousands of short tons),81
+Long Beach /Daugherty Field/,2012,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),80
+Mobile Downtown,2012,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),66
+Tucson International,2012,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),80
+Springfield-Branson National,2012,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),101
+Roanoke-Blacksburg Regional/Woodrum Field,2012,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),61
+Bill and Hillary Clinton National/Adams Field,2012,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),73
+Lihue,2012,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),48
+Toledo Express,2012,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),61
+Fresno Yosemite International,2012,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),50
+General Downing - Peoria International,2012,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),98
+Fairbanks International,2012,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),67
+City of Colorado Springs Municipal,2012,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),53
+Bishop International,2012,Flint,FNT,All-cargo operations landed weight (thousands of short tons),31
+Jackson-Medgar Wiley Evers International,2012,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),56
+James M Cox Dayton International,2012,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),22
+March ARB,2012,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),0
+Bangor International,2012,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),41
+Brownsville/South Padre Island International,2012,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),9
+Grand Forks International,2012,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),78
+Gallup Municipal,2012,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Portsmouth International at Pease,2012,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),6
+Tucumcari Municipal,2012,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2012,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),43
+St Pete-Clearwater International,2012,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),64
+Memphis International,2013,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"10,946"
+Ted Stevens Anchorage International,2013,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"7,991"
+Louisville Muhammad Ali International,2013,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"5,632"
+Miami International,2013,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,424"
+Los Angeles International,2013,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"2,100"
+Cincinnati/Northern Kentucky International,2013,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"1,711"
+Chicago O'Hare International,2013,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"3,432"
+Indianapolis International,2013,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,634"
+Dallas-Fort Worth International,2013,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,531"
+Ontario International,2013,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,186"
+Metropolitan Oakland International,2013,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,362"
+John F Kennedy International,2013,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,686"
+Hartsfield - Jackson Atlanta International,2013,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,094"
+Newark Liberty International,2013,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,267"
+Daniel K Inouye International,2013,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,058"
+Seattle-Tacoma International,2013,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),693
+Philadelphia International,2013,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),942
+George Bush Intercontinental/Houston,2013,Houston,IAH,All-cargo operations landed weight (thousands of short tons),852
+Chicago/Rockford International,2013,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),396
+Phoenix Sky Harbor International,2013,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),688
+Portland International,2013,Portland,PDX,All-cargo operations landed weight (thousands of short tons),569
+Denver International,2013,Denver,DEN,All-cargo operations landed weight (thousands of short tons),630
+Tampa International,2013,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),187
+Luis Munoz Marin International,2013,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),424
+Baltimore/Washington International Thurgood Marshall,2013,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),247
+Rickenbacker International,2013,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),348
+Salt Lake City International,2013,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),467
+Minneapolis-St Paul International/Wold-Chamberlain,2013,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),366
+San Francisco International,2013,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),596
+Orlando International,2013,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),349
+General Edward Lawrence Logan International,2013,Boston,BOS,All-cargo operations landed weight (thousands of short tons),433
+Bradley International,2013,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),387
+San Antonio International,2013,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),369
+Fort Worth Alliance,2013,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),318
+Detroit Metropolitan Wayne County,2013,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),341
+Boeing Field/King County International,2013,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),380
+Sacramento International,2013,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),146
+El Paso International,2013,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),240
+Piedmont Triad International,2013,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),303
+Laredo International,2013,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),196
+Charlotte/Douglas International,2013,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),177
+General Mitchell International,2013,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),243
+San Diego International,2013,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),339
+Kansas City International,2013,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),244
+Pittsburgh International,2013,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),199
+Albuquerque International Sunport,2013,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),284
+Sacramento Mather,2013,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),177
+Reno/Tahoe International,2013,Reno,RNO,All-cargo operations landed weight (thousands of short tons),214
+Manchester,2013,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),257
+Austin-Bergstrom International,2013,Austin,AUS,All-cargo operations landed weight (thousands of short tons),221
+Richmond International,2013,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),198
+Raleigh-Durham International,2013,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),205
+Rafael Hernandez,2013,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),358
+Jacksonville International,2013,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),196
+Washington Dulles International,2013,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),239
+Fort Lauderdale/Hollywood International,2013,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),223
+Spokane International,2013,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),227
+Greenville Spartanburg International,2013,Greer,GSP,All-cargo operations landed weight (thousands of short tons),107
+Huntsville International-Carl T Jones Field,2013,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),199
+Columbia Metropolitan,2013,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),196
+Eppley Airfield,2013,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),202
+Harrisburg International,2013,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),187
+Tulsa International,2013,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),159
+Cleveland-Hopkins International,2013,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),181
+McCarran International,2013,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),192
+Louis Armstrong New Orleans International,2013,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),148
+Lubbock Preston Smith International,2013,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),167
+St Louis Lambert International,2013,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),214
+Valley International,2013,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),121
+Joe Foss Field,2013,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),169
+The Eastern Iowa,2013,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),107
+Syracuse Hancock International,2013,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),163
+Charleston AFB/International,2013,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),131
+Boise Air Terminal/Gowen Field,2013,Boise,BOI,All-cargo operations landed weight (thousands of short tons),164
+Buffalo Niagara International,2013,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),146
+Nashville International,2013,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),148
+Shreveport Regional,2013,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),116
+Ellison Onizuka Kona International at Keahole,2013,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),100
+McGhee Tyson,2013,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),152
+Greater Rochester International,2013,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),147
+Stockton Metropolitan,2013,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),0
+Des Moines International,2013,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),208
+Will Rogers World,2013,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),107
+Kahului,2013,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),120
+Norman Y Mineta San Jose International,2013,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),123
+Theodore Francis Green State,2013,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),53
+Wichita Dwight D Eisenhower National,2013,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),102
+Snohomish County (Paine Field),2013,Everett,PAE,All-cargo operations landed weight (thousands of short tons),84
+Gerald R Ford International,2013,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),122
+Willow Run,2013,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),81
+Norfolk International,2013,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),105
+Capital Region International,2013,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),65
+Fort Wayne International,2013,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),109
+Hilo International,2013,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),106
+Guam International,2013,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),42
+Great Falls International,2013,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),88
+Southwest Georgia Regional,2013,Albany,ABY,All-cargo operations landed weight (thousands of short tons),81
+Southwest Florida International,2013,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),57
+Birmingham-Shuttlesworth International,2013,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),88
+New York Stewart International,2013,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),70
+Albany International,2013,Albany,ALB,All-cargo operations landed weight (thousands of short tons),81
+Long Beach /Daugherty Field/,2013,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),81
+Mobile Downtown,2013,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),71
+Tucson International,2013,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),80
+Springfield-Branson National,2013,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),104
+Roanoke-Blacksburg Regional/Woodrum Field,2013,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),63
+Bill and Hillary Clinton National/Adams Field,2013,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),74
+Lihue,2013,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),48
+Toledo Express,2013,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),65
+Fresno Yosemite International,2013,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),53
+General Downing - Peoria International,2013,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),100
+Lafayette Regional/Paul Fournet Field,2013,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),0
+Fairbanks International,2013,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),61
+City of Colorado Springs Municipal,2013,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),53
+Bishop International,2013,Flint,FNT,All-cargo operations landed weight (thousands of short tons),38
+Jackson-Medgar Wiley Evers International,2013,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),37
+James M Cox Dayton International,2013,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),26
+March ARB,2013,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),7
+Lovell Field,2013,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),27
+Bangor International,2013,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),13
+Brownsville/South Padre Island International,2013,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),7
+Grand Forks International,2013,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),92
+Gogebic-Iron County,2013,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2013,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2013,Chico,CIC,All-cargo operations landed weight (thousands of short tons),0
+Portsmouth International at Pease,2013,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),4
+Niagara Falls International,2013,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),0
+Tucumcari Municipal,2013,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),0
+South Bend International,2013,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),47
+St Pete-Clearwater International,2013,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),67
+Memphis International,2014,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"11,387"
+Ted Stevens Anchorage International,2014,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"7,934"
+Louisville Muhammad Ali International,2014,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"5,784"
+Miami International,2014,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,596"
+Los Angeles International,2014,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"2,149"
+Cincinnati/Northern Kentucky International,2014,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"1,822"
+Chicago O'Hare International,2014,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"3,771"
+Indianapolis International,2014,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,678"
+Dallas-Fort Worth International,2014,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,570"
+Ontario International,2014,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,180"
+Metropolitan Oakland International,2014,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,477"
+John F Kennedy International,2014,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,585"
+Hartsfield - Jackson Atlanta International,2014,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,131"
+Newark Liberty International,2014,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,250"
+Daniel K Inouye International,2014,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,095"
+Seattle-Tacoma International,2014,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),787
+Philadelphia International,2014,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),964
+George Bush Intercontinental/Houston,2014,Houston,IAH,All-cargo operations landed weight (thousands of short tons),867
+Chicago/Rockford International,2014,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),394
+Phoenix Sky Harbor International,2014,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),718
+Portland International,2014,Portland,PDX,All-cargo operations landed weight (thousands of short tons),563
+Denver International,2014,Denver,DEN,All-cargo operations landed weight (thousands of short tons),657
+Tampa International,2014,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),198
+Luis Munoz Marin International,2014,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),425
+Baltimore/Washington International Thurgood Marshall,2014,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),244
+Rickenbacker International,2014,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),367
+Salt Lake City International,2014,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),481
+Minneapolis-St Paul International/Wold-Chamberlain,2014,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),486
+San Francisco International,2014,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),623
+Orlando International,2014,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),378
+General Edward Lawrence Logan International,2014,Boston,BOS,All-cargo operations landed weight (thousands of short tons),455
+Bradley International,2014,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),392
+San Antonio International,2014,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),373
+Fort Worth Alliance,2014,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),334
+Detroit Metropolitan Wayne County,2014,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),337
+Boeing Field/King County International,2014,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),408
+Sacramento International,2014,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),144
+El Paso International,2014,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),249
+Piedmont Triad International,2014,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),268
+Laredo International,2014,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),221
+Charlotte/Douglas International,2014,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),180
+General Mitchell International,2014,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),255
+San Diego International,2014,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),293
+Kansas City International,2014,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),249
+Pittsburgh International,2014,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),203
+Albuquerque International Sunport,2014,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),285
+Sacramento Mather,2014,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),181
+Reno/Tahoe International,2014,Reno,RNO,All-cargo operations landed weight (thousands of short tons),234
+Manchester,2014,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),234
+Austin-Bergstrom International,2014,Austin,AUS,All-cargo operations landed weight (thousands of short tons),219
+Richmond International,2014,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),204
+Raleigh-Durham International,2014,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),220
+Rafael Hernandez,2014,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),330
+Jacksonville International,2014,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),198
+Washington Dulles International,2014,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),240
+Fort Lauderdale/Hollywood International,2014,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),254
+Spokane International,2014,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),201
+Greenville Spartanburg International,2014,Greer,GSP,All-cargo operations landed weight (thousands of short tons),120
+Huntsville International-Carl T Jones Field,2014,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),206
+Columbia Metropolitan,2014,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),197
+Eppley Airfield,2014,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),195
+Harrisburg International,2014,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),137
+Tulsa International,2014,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),156
+Cleveland-Hopkins International,2014,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),185
+McCarran International,2014,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),196
+Louis Armstrong New Orleans International,2014,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),148
+Lubbock Preston Smith International,2014,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),167
+St Louis Lambert International,2014,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),191
+Valley International,2014,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),123
+Joe Foss Field,2014,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),176
+The Eastern Iowa,2014,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),140
+Syracuse Hancock International,2014,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),163
+Charleston AFB/International,2014,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),166
+Boise Air Terminal/Gowen Field,2014,Boise,BOI,All-cargo operations landed weight (thousands of short tons),172
+Buffalo Niagara International,2014,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),147
+Nashville International,2014,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),149
+Shreveport Regional,2014,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),112
+Ellison Onizuka Kona International at Keahole,2014,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),104
+McGhee Tyson,2014,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),142
+Greater Rochester International,2014,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),135
+Stockton Metropolitan,2014,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),0
+Des Moines International,2014,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),226
+Will Rogers World,2014,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),110
+Kahului,2014,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),125
+Norman Y Mineta San Jose International,2014,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),122
+Theodore Francis Green State,2014,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),55
+Wichita Dwight D Eisenhower National,2014,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),106
+Snohomish County (Paine Field),2014,Everett,PAE,All-cargo operations landed weight (thousands of short tons),132
+Gerald R Ford International,2014,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),119
+Willow Run,2014,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),97
+Norfolk International,2014,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),99
+Capital Region International,2014,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),65
+Fort Wayne International,2014,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),105
+Hilo International,2014,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),86
+Guam International,2014,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),44
+Great Falls International,2014,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),91
+Southwest Georgia Regional,2014,Albany,ABY,All-cargo operations landed weight (thousands of short tons),81
+Southwest Florida International,2014,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),60
+Birmingham-Shuttlesworth International,2014,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),88
+New York Stewart International,2014,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),71
+Albany International,2014,Albany,ALB,All-cargo operations landed weight (thousands of short tons),82
+Long Beach /Daugherty Field/,2014,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),82
+Mobile Downtown,2014,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),80
+Tucson International,2014,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),77
+Springfield-Branson National,2014,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),99
+Roanoke-Blacksburg Regional/Woodrum Field,2014,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),64
+Bill and Hillary Clinton National/Adams Field,2014,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),73
+Lihue,2014,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),57
+Toledo Express,2014,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),61
+Fresno Yosemite International,2014,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),52
+General Downing - Peoria International,2014,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),103
+Lafayette Regional/Paul Fournet Field,2014,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),54
+Fairbanks International,2014,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),60
+City of Colorado Springs Municipal,2014,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),54
+Bishop International,2014,Flint,FNT,All-cargo operations landed weight (thousands of short tons),42
+Jackson-Medgar Wiley Evers International,2014,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),38
+James M Cox Dayton International,2014,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),26
+March ARB,2014,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),5
+Lovell Field,2014,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),30
+Bangor International,2014,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),11
+Brownsville/South Padre Island International,2014,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),9
+Grand Forks International,2014,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),96
+Gogebic-Iron County,2014,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2014,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2014,Chico,CIC,All-cargo operations landed weight (thousands of short tons),3
+Portsmouth International at Pease,2014,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),10
+Niagara Falls International,2014,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),1
+Tucumcari Municipal,2014,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2014,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),49
+St Pete-Clearwater International,2014,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),68
+Memphis International,2015,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"11,340"
+Ted Stevens Anchorage International,2015,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"8,570"
+Louisville Muhammad Ali International,2015,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"6,029"
+Miami International,2015,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,815"
+Los Angeles International,2015,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"3,293"
+Cincinnati/Northern Kentucky International,2015,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"2,010"
+Chicago O'Hare International,2015,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"4,532"
+Indianapolis International,2015,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,662"
+Dallas-Fort Worth International,2015,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,664"
+Ontario International,2015,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,294"
+Metropolitan Oakland International,2015,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,526"
+John F Kennedy International,2015,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,628"
+Hartsfield - Jackson Atlanta International,2015,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,229"
+Newark Liberty International,2015,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,445"
+Daniel K Inouye International,2015,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,132"
+Seattle-Tacoma International,2015,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),785
+Philadelphia International,2015,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),951
+George Bush Intercontinental/Houston,2015,Houston,IAH,All-cargo operations landed weight (thousands of short tons),873
+Chicago/Rockford International,2015,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),398
+Phoenix Sky Harbor International,2015,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),758
+Portland International,2015,Portland,PDX,All-cargo operations landed weight (thousands of short tons),585
+Denver International,2015,Denver,DEN,All-cargo operations landed weight (thousands of short tons),682
+Tampa International,2015,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),212
+Luis Munoz Marin International,2015,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),504
+Baltimore/Washington International Thurgood Marshall,2015,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),260
+Rickenbacker International,2015,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),460
+Salt Lake City International,2015,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),518
+Minneapolis-St Paul International/Wold-Chamberlain,2015,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),493
+San Francisco International,2015,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),640
+Orlando International,2015,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),437
+General Edward Lawrence Logan International,2015,Boston,BOS,All-cargo operations landed weight (thousands of short tons),447
+Bradley International,2015,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),399
+San Antonio International,2015,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),388
+Fort Worth Alliance,2015,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),388
+Detroit Metropolitan Wayne County,2015,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),343
+Boeing Field/King County International,2015,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),417
+Sacramento International,2015,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),143
+El Paso International,2015,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),259
+Piedmont Triad International,2015,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),274
+Lehigh Valley International,2015,Allentown,ABE,All-cargo operations landed weight (thousands of short tons),83
+Laredo International,2015,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),214
+Charlotte/Douglas International,2015,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),189
+General Mitchell International,2015,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),276
+San Diego International,2015,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),306
+Kansas City International,2015,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),252
+Pittsburgh International,2015,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),216
+Albuquerque International Sunport,2015,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),290
+Sacramento Mather,2015,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),191
+Reno/Tahoe International,2015,Reno,RNO,All-cargo operations landed weight (thousands of short tons),256
+Manchester,2015,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),232
+Austin-Bergstrom International,2015,Austin,AUS,All-cargo operations landed weight (thousands of short tons),249
+Richmond International,2015,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),207
+Raleigh-Durham International,2015,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),223
+Rafael Hernandez,2015,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),357
+Jacksonville International,2015,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),201
+Washington Dulles International,2015,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),241
+Fort Lauderdale/Hollywood International,2015,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),242
+Spokane International,2015,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),231
+Greenville Spartanburg International,2015,Greer,GSP,All-cargo operations landed weight (thousands of short tons),111
+Huntsville International-Carl T Jones Field,2015,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),204
+Columbia Metropolitan,2015,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),194
+Billings Logan International,2015,Billings,BIL,All-cargo operations landed weight (thousands of short tons),161
+Eppley Airfield,2015,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),183
+Harrisburg International,2015,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),162
+Tulsa International,2015,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),157
+Cleveland-Hopkins International,2015,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),197
+McCarran International,2015,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),174
+Louis Armstrong New Orleans International,2015,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),155
+Lubbock Preston Smith International,2015,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),178
+St Louis Lambert International,2015,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),163
+Valley International,2015,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),121
+Joe Foss Field,2015,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),189
+The Eastern Iowa,2015,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),141
+Syracuse Hancock International,2015,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),165
+Charleston AFB/International,2015,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),158
+Boise Air Terminal/Gowen Field,2015,Boise,BOI,All-cargo operations landed weight (thousands of short tons),178
+Buffalo Niagara International,2015,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),150
+Nashville International,2015,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),157
+Shreveport Regional,2015,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),122
+Ellison Onizuka Kona International at Keahole,2015,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),111
+McGhee Tyson,2015,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),136
+Hector International,2015,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),0
+Greater Rochester International,2015,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),126
+Stockton Metropolitan,2015,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),0
+Des Moines International,2015,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),231
+Will Rogers World,2015,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),108
+Kahului,2015,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),133
+Norman Y Mineta San Jose International,2015,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),122
+Theodore Francis Green State,2015,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),56
+Wichita Dwight D Eisenhower National,2015,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),106
+Snohomish County (Paine Field),2015,Everett,PAE,All-cargo operations landed weight (thousands of short tons),130
+Gerald R Ford International,2015,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),116
+Willow Run,2015,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),93
+Norfolk International,2015,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),100
+Capital Region International,2015,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),78
+Fort Wayne International,2015,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),97
+Hilo International,2015,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),81
+Guam International,2015,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),38
+Great Falls International,2015,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),110
+Southwest Georgia Regional,2015,Albany,ABY,All-cargo operations landed weight (thousands of short tons),72
+San Bernardino International,2015,San Bernardino,SBD,All-cargo operations landed weight (thousands of short tons),7
+Southwest Florida International,2015,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),60
+Birmingham-Shuttlesworth International,2015,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),89
+New York Stewart International,2015,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),73
+Albany International,2015,Albany,ALB,All-cargo operations landed weight (thousands of short tons),81
+Long Beach /Daugherty Field/,2015,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),69
+Mobile Downtown,2015,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),73
+Tucson International,2015,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),80
+Springfield-Branson National,2015,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),98
+Roanoke-Blacksburg Regional/Woodrum Field,2015,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),64
+Bill and Hillary Clinton National/Adams Field,2015,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),76
+Lihue,2015,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),65
+Toledo Express,2015,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),61
+Fresno Yosemite International,2015,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),53
+General Downing - Peoria International,2015,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),74
+Lafayette Regional/Paul Fournet Field,2015,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),54
+Fairbanks International,2015,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),67
+City of Colorado Springs Municipal,2015,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),54
+Bishop International,2015,Flint,FNT,All-cargo operations landed weight (thousands of short tons),49
+Jackson-Medgar Wiley Evers International,2015,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),35
+James M Cox Dayton International,2015,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),26
+March ARB,2015,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),4
+Lovell Field,2015,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),28
+Thief River Falls Regional,2015,Thief River Falls,TVF,All-cargo operations landed weight (thousands of short tons),12
+Bangor International,2015,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),14
+Brownsville/South Padre Island International,2015,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),9
+Grand Forks International,2015,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),115
+Gogebic-Iron County,2015,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2015,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2015,Chico,CIC,All-cargo operations landed weight (thousands of short tons),2
+Portsmouth International at Pease,2015,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),2
+Niagara Falls International,2015,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),2
+Tucumcari Municipal,2015,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2015,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),50
+St Pete-Clearwater International,2015,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),78
+Memphis International,2016,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"11,933"
+Ted Stevens Anchorage International,2016,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"8,434"
+Louisville Muhammad Ali International,2016,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"6,402"
+Miami International,2016,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,950"
+Los Angeles International,2016,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"3,466"
+Cincinnati/Northern Kentucky International,2016,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"2,138"
+Chicago O'Hare International,2016,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"4,679"
+Indianapolis International,2016,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,665"
+Dallas-Fort Worth International,2016,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"1,930"
+Ontario International,2016,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,521"
+Metropolitan Oakland International,2016,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,576"
+John F Kennedy International,2016,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,599"
+Hartsfield - Jackson Atlanta International,2016,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,305"
+Newark Liberty International,2016,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,402"
+Daniel K Inouye International,2016,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,228"
+Seattle-Tacoma International,2016,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),939
+Philadelphia International,2016,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),"1,014"
+George Bush Intercontinental/Houston,2016,Houston,IAH,All-cargo operations landed weight (thousands of short tons),818
+Chicago/Rockford International,2016,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),461
+Phoenix Sky Harbor International,2016,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),852
+Portland International,2016,Portland,PDX,All-cargo operations landed weight (thousands of short tons),636
+Denver International,2016,Denver,DEN,All-cargo operations landed weight (thousands of short tons),713
+Tampa International,2016,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),294
+Luis Munoz Marin International,2016,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),542
+Baltimore/Washington International Thurgood Marshall,2016,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),268
+Rickenbacker International,2016,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),492
+Salt Lake City International,2016,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),542
+Minneapolis-St Paul International/Wold-Chamberlain,2016,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),501
+San Francisco International,2016,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),650
+Orlando International,2016,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),487
+General Edward Lawrence Logan International,2016,Boston,BOS,All-cargo operations landed weight (thousands of short tons),490
+Bradley International,2016,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),416
+San Antonio International,2016,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),396
+Fort Worth Alliance,2016,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),449
+Detroit Metropolitan Wayne County,2016,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),390
+Boeing Field/King County International,2016,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),397
+Sacramento International,2016,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),166
+El Paso International,2016,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),255
+Piedmont Triad International,2016,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),249
+Lehigh Valley International,2016,Allentown,ABE,All-cargo operations landed weight (thousands of short tons),194
+Laredo International,2016,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),225
+Charlotte/Douglas International,2016,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),234
+General Mitchell International,2016,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),307
+San Diego International,2016,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),320
+Kansas City International,2016,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),308
+Pittsburgh International,2016,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),226
+Albuquerque International Sunport,2016,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),288
+Sacramento Mather,2016,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),188
+Reno/Tahoe International,2016,Reno,RNO,All-cargo operations landed weight (thousands of short tons),306
+Manchester,2016,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),241
+Austin-Bergstrom International,2016,Austin,AUS,All-cargo operations landed weight (thousands of short tons),242
+Richmond International,2016,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),216
+Raleigh-Durham International,2016,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),226
+Rafael Hernandez,2016,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),266
+Jacksonville International,2016,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),204
+Washington Dulles International,2016,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),230
+Fort Lauderdale/Hollywood International,2016,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),246
+Spokane International,2016,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),228
+Greenville Spartanburg International,2016,Greer,GSP,All-cargo operations landed weight (thousands of short tons),124
+Huntsville International-Carl T Jones Field,2016,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),206
+Columbia Metropolitan,2016,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),204
+Billings Logan International,2016,Billings,BIL,All-cargo operations landed weight (thousands of short tons),169
+Eppley Airfield,2016,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),198
+Harrisburg International,2016,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),182
+Tulsa International,2016,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),161
+Cleveland-Hopkins International,2016,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),202
+McCarran International,2016,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),201
+Louis Armstrong New Orleans International,2016,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),158
+Lubbock Preston Smith International,2016,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),176
+St Louis Lambert International,2016,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),177
+Valley International,2016,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),132
+Joe Foss Field,2016,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),184
+The Eastern Iowa,2016,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),138
+Syracuse Hancock International,2016,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),162
+Charleston AFB/International,2016,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),148
+Boise Air Terminal/Gowen Field,2016,Boise,BOI,All-cargo operations landed weight (thousands of short tons),173
+Buffalo Niagara International,2016,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),142
+Nashville International,2016,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),142
+Shreveport Regional,2016,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),121
+Ellison Onizuka Kona International at Keahole,2016,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),129
+McGhee Tyson,2016,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),147
+Hector International,2016,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),26
+Greater Rochester International,2016,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),125
+Stockton Metropolitan,2016,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),92
+Des Moines International,2016,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),243
+Will Rogers World,2016,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),108
+Kahului,2016,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),141
+Norman Y Mineta San Jose International,2016,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),132
+Theodore Francis Green State,2016,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),56
+Wichita Dwight D Eisenhower National,2016,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),103
+Snohomish County (Paine Field),2016,Everett,PAE,All-cargo operations landed weight (thousands of short tons),117
+Gerald R Ford International,2016,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),115
+Willow Run,2016,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),87
+Norfolk International,2016,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),103
+Capital Region International,2016,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),79
+Fort Wayne International,2016,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),99
+Hilo International,2016,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),91
+Guam International,2016,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),53
+Great Falls International,2016,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),87
+Southwest Georgia Regional,2016,Albany,ABY,All-cargo operations landed weight (thousands of short tons),82
+San Bernardino International,2016,San Bernardino,SBD,All-cargo operations landed weight (thousands of short tons),3
+Southwest Florida International,2016,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),72
+Birmingham-Shuttlesworth International,2016,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),89
+New York Stewart International,2016,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),78
+Albany International,2016,Albany,ALB,All-cargo operations landed weight (thousands of short tons),84
+Long Beach /Daugherty Field/,2016,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),84
+Mobile Downtown,2016,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),87
+Tucson International,2016,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),81
+Springfield-Branson National,2016,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),93
+Roanoke-Blacksburg Regional/Woodrum Field,2016,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),63
+Bill and Hillary Clinton National/Adams Field,2016,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),76
+Lihue,2016,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),63
+Toledo Express,2016,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),61
+Fresno Yosemite International,2016,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),53
+General Downing - Peoria International,2016,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),69
+Lafayette Regional/Paul Fournet Field,2016,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),55
+Fairbanks International,2016,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),58
+City of Colorado Springs Municipal,2016,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),54
+Bishop International,2016,Flint,FNT,All-cargo operations landed weight (thousands of short tons),42
+Jackson-Medgar Wiley Evers International,2016,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),38
+James M Cox Dayton International,2016,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),26
+March ARB,2016,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),4
+Lovell Field,2016,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),27
+Thief River Falls Regional,2016,Thief River Falls,TVF,All-cargo operations landed weight (thousands of short tons),12
+Bangor International,2016,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),12
+Brownsville/South Padre Island International,2016,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),8
+Grand Forks International,2016,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),103
+Gogebic-Iron County,2016,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2016,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2016,Chico,CIC,All-cargo operations landed weight (thousands of short tons),2
+Portsmouth International at Pease,2016,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),1
+Niagara Falls International,2016,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),0
+Tucumcari Municipal,2016,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2016,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),53
+St Pete-Clearwater International,2016,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),94
+Memphis International,2017,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"11,975"
+Ted Stevens Anchorage International,2017,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"8,669"
+Louisville Muhammad Ali International,2017,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"6,702"
+Miami International,2017,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"3,982"
+Los Angeles International,2017,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"3,599"
+Cincinnati/Northern Kentucky International,2017,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"2,850"
+Chicago O'Hare International,2017,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"5,187"
+Indianapolis International,2017,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,569"
+Dallas-Fort Worth International,2017,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"2,078"
+Ontario International,2017,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"1,761"
+Metropolitan Oakland International,2017,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,636"
+John F Kennedy International,2017,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,469"
+Hartsfield - Jackson Atlanta International,2017,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,391"
+Newark Liberty International,2017,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,495"
+Daniel K Inouye International,2017,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,244"
+Seattle-Tacoma International,2017,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),"1,158"
+Philadelphia International,2017,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),"1,009"
+George Bush Intercontinental/Houston,2017,Houston,IAH,All-cargo operations landed weight (thousands of short tons),878
+Chicago/Rockford International,2017,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),691
+Phoenix Sky Harbor International,2017,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),879
+Portland International,2017,Portland,PDX,All-cargo operations landed weight (thousands of short tons),736
+Denver International,2017,Denver,DEN,All-cargo operations landed weight (thousands of short tons),696
+Tampa International,2017,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),427
+Luis Munoz Marin International,2017,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),604
+Baltimore/Washington International Thurgood Marshall,2017,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),472
+Rickenbacker International,2017,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),543
+Salt Lake City International,2017,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),562
+Minneapolis-St Paul International/Wold-Chamberlain,2017,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),515
+San Francisco International,2017,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),627
+Orlando International,2017,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),496
+General Edward Lawrence Logan International,2017,Boston,BOS,All-cargo operations landed weight (thousands of short tons),498
+Bradley International,2017,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),409
+San Antonio International,2017,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),422
+Fort Worth Alliance,2017,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),452
+Detroit Metropolitan Wayne County,2017,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),395
+Boeing Field/King County International,2017,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),373
+Sacramento International,2017,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),184
+El Paso International,2017,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),263
+Piedmont Triad International,2017,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),304
+Lehigh Valley International,2017,Allentown,ABE,All-cargo operations landed weight (thousands of short tons),345
+Laredo International,2017,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),294
+Charlotte/Douglas International,2017,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),302
+General Mitchell International,2017,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),301
+San Diego International,2017,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),318
+Kansas City International,2017,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),286
+Pittsburgh International,2017,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),235
+Albuquerque International Sunport,2017,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),281
+Sacramento Mather,2017,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),220
+Reno/Tahoe International,2017,Reno,RNO,All-cargo operations landed weight (thousands of short tons),277
+Manchester,2017,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),245
+Austin-Bergstrom International,2017,Austin,AUS,All-cargo operations landed weight (thousands of short tons),274
+Richmond International,2017,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),250
+Raleigh-Durham International,2017,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),251
+Rafael Hernandez,2017,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),262
+Jacksonville International,2017,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),207
+Washington Dulles International,2017,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),229
+Fort Lauderdale/Hollywood International,2017,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),229
+Spokane International,2017,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),235
+Greenville Spartanburg International,2017,Greer,GSP,All-cargo operations landed weight (thousands of short tons),172
+Huntsville International-Carl T Jones Field,2017,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),210
+Columbia Metropolitan,2017,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),201
+Billings Logan International,2017,Billings,BIL,All-cargo operations landed weight (thousands of short tons),174
+Eppley Airfield,2017,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),203
+Harrisburg International,2017,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),182
+Tulsa International,2017,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),177
+Cleveland-Hopkins International,2017,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),191
+McCarran International,2017,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),185
+Louis Armstrong New Orleans International,2017,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),179
+Lubbock Preston Smith International,2017,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),182
+St Louis Lambert International,2017,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),174
+Valley International,2017,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),150
+Joe Foss Field,2017,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),179
+The Eastern Iowa,2017,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),149
+Syracuse Hancock International,2017,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),162
+Charleston AFB/International,2017,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),154
+Boise Air Terminal/Gowen Field,2017,Boise,BOI,All-cargo operations landed weight (thousands of short tons),170
+Buffalo Niagara International,2017,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),142
+Nashville International,2017,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),146
+Shreveport Regional,2017,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),144
+Ellison Onizuka Kona International at Keahole,2017,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),142
+McGhee Tyson,2017,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),137
+Hector International,2017,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),124
+Greater Rochester International,2017,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),127
+Stockton Metropolitan,2017,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),166
+Des Moines International,2017,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),190
+Will Rogers World,2017,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),120
+Kahului,2017,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),133
+Norman Y Mineta San Jose International,2017,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),125
+Theodore Francis Green State,2017,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),87
+Wichita Dwight D Eisenhower National,2017,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),104
+Snohomish County (Paine Field),2017,Everett,PAE,All-cargo operations landed weight (thousands of short tons),117
+Gerald R Ford International,2017,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),114
+Willow Run,2017,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),91
+Norfolk International,2017,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),123
+Capital Region International,2017,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),89
+Fort Wayne International,2017,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),96
+Hilo International,2017,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),99
+Guam International,2017,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),54
+Great Falls International,2017,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),90
+Southwest Georgia Regional,2017,Albany,ABY,All-cargo operations landed weight (thousands of short tons),80
+Dane County Regional-Truax Field,2017,Madison,MSN,All-cargo operations landed weight (thousands of short tons),0
+San Bernardino International,2017,San Bernardino,SBD,All-cargo operations landed weight (thousands of short tons),10
+Southwest Florida International,2017,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),94
+Birmingham-Shuttlesworth International,2017,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),82
+New York Stewart International,2017,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),105
+Albany International,2017,Albany,ALB,All-cargo operations landed weight (thousands of short tons),84
+Long Beach /Daugherty Field/,2017,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),80
+Mobile Downtown,2017,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),85
+Tucson International,2017,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),80
+Springfield-Branson National,2017,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),99
+Roanoke-Blacksburg Regional/Woodrum Field,2017,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),67
+Bill and Hillary Clinton National/Adams Field,2017,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),78
+Appleton International,2017,Appleton,ATW,All-cargo operations landed weight (thousands of short tons),63
+Lihue,2017,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),59
+Kelly Field,2017,San Antonio,SKF,All-cargo operations landed weight (thousands of short tons),109
+Toledo Express,2017,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),61
+Fresno Yosemite International,2017,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),58
+General Downing - Peoria International,2017,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),61
+Lafayette Regional/Paul Fournet Field,2017,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),56
+Fairbanks International,2017,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),55
+City of Colorado Springs Municipal,2017,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),45
+Bishop International,2017,Flint,FNT,All-cargo operations landed weight (thousands of short tons),42
+Jackson-Medgar Wiley Evers International,2017,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),38
+James M Cox Dayton International,2017,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),26
+March ARB,2017,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),4
+Lovell Field,2017,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),28
+Thief River Falls Regional,2017,Thief River Falls,TVF,All-cargo operations landed weight (thousands of short tons),14
+Bangor International,2017,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),18
+Garden City Regional,2017,Garden City,GCK,All-cargo operations landed weight (thousands of short tons),0
+Brownsville/South Padre Island International,2017,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),12
+Grand Forks International,2017,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),4
+Gogebic-Iron County,2017,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2017,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2017,Chico,CIC,All-cargo operations landed weight (thousands of short tons),3
+Portsmouth International at Pease,2017,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),1
+Niagara Falls International,2017,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),2
+Grant County,2017,Silver City,SVC,All-cargo operations landed weight (thousands of short tons),0
+Tucumcari Municipal,2017,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2017,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),50
+St Pete-Clearwater International,2017,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),81
+Memphis International,2018,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"12,216"
+Ted Stevens Anchorage International,2018,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"9,207"
+Louisville Muhammad Ali International,2018,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"7,322"
+Miami International,2018,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"4,199"
+Los Angeles International,2018,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"3,658"
+Cincinnati/Northern Kentucky International,2018,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"3,516"
+Chicago O'Hare International,2018,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"3,349"
+Indianapolis International,2018,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,640"
+Dallas-Fort Worth International,2018,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"2,152"
+Ontario International,2018,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"2,099"
+Metropolitan Oakland International,2018,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,813"
+John F Kennedy International,2018,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,639"
+Hartsfield - Jackson Atlanta International,2018,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,496"
+Newark Liberty International,2018,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,453"
+Daniel K Inouye International,2018,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,373"
+Seattle-Tacoma International,2018,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),"1,233"
+Philadelphia International,2018,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),"1,225"
+George Bush Intercontinental/Houston,2018,Houston,IAH,All-cargo operations landed weight (thousands of short tons),"1,099"
+Chicago/Rockford International,2018,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),"1,070"
+Phoenix Sky Harbor International,2018,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),957
+Portland International,2018,Portland,PDX,All-cargo operations landed weight (thousands of short tons),844
+Denver International,2018,Denver,DEN,All-cargo operations landed weight (thousands of short tons),746
+Tampa International,2018,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),635
+Luis Munoz Marin International,2018,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),627
+Baltimore/Washington International Thurgood Marshall,2018,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),619
+Rickenbacker International,2018,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),615
+Salt Lake City International,2018,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),599
+Minneapolis-St Paul International/Wold-Chamberlain,2018,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),540
+San Francisco International,2018,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),539
+Orlando International,2018,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),529
+General Edward Lawrence Logan International,2018,Boston,BOS,All-cargo operations landed weight (thousands of short tons),504
+Bradley International,2018,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),481
+San Antonio International,2018,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),461
+Fort Worth Alliance,2018,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),461
+Detroit Metropolitan Wayne County,2018,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),422
+Boeing Field/King County International,2018,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),372
+Sacramento International,2018,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),360
+El Paso International,2018,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),350
+Piedmont Triad International,2018,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),344
+Lehigh Valley International,2018,Allentown,ABE,All-cargo operations landed weight (thousands of short tons),340
+Laredo International,2018,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),337
+Charlotte/Douglas International,2018,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),322
+General Mitchell International,2018,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),310
+San Diego International,2018,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),302
+Kansas City International,2018,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),285
+Pittsburgh International,2018,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),280
+Albuquerque International Sunport,2018,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),277
+Sacramento Mather,2018,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),276
+Reno/Tahoe International,2018,Reno,RNO,All-cargo operations landed weight (thousands of short tons),271
+Manchester,2018,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),268
+Austin-Bergstrom International,2018,Austin,AUS,All-cargo operations landed weight (thousands of short tons),268
+Richmond International,2018,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),257
+Raleigh-Durham International,2018,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),251
+Rafael Hernandez,2018,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),244
+Jacksonville International,2018,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),243
+Washington Dulles International,2018,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),240
+Fort Lauderdale/Hollywood International,2018,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),235
+Spokane International,2018,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),230
+Greenville Spartanburg International,2018,Greer,GSP,All-cargo operations landed weight (thousands of short tons),224
+Huntsville International-Carl T Jones Field,2018,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),224
+Columbia Metropolitan,2018,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),221
+Billings Logan International,2018,Billings,BIL,All-cargo operations landed weight (thousands of short tons),221
+Eppley Airfield,2018,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),219
+Harrisburg International,2018,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),214
+Tulsa International,2018,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),212
+Cleveland-Hopkins International,2018,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),210
+McCarran International,2018,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),208
+Louis Armstrong New Orleans International,2018,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),187
+Lubbock Preston Smith International,2018,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),184
+St Louis Lambert International,2018,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),183
+Valley International,2018,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),183
+Joe Foss Field,2018,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),183
+The Eastern Iowa,2018,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),175
+Syracuse Hancock International,2018,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),174
+Charleston AFB/International,2018,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),173
+Boise Air Terminal/Gowen Field,2018,Boise,BOI,All-cargo operations landed weight (thousands of short tons),172
+Buffalo Niagara International,2018,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),161
+Nashville International,2018,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),154
+Shreveport Regional,2018,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),146
+Ellison Onizuka Kona International at Keahole,2018,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),142
+McGhee Tyson,2018,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),139
+Hector International,2018,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),138
+Greater Rochester International,2018,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),137
+Stockton Metropolitan,2018,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),135
+Des Moines International,2018,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),133
+Will Rogers World,2018,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),129
+Kahului,2018,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),128
+Norman Y Mineta San Jose International,2018,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),125
+Theodore Francis Green State,2018,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),122
+Wichita Dwight D Eisenhower National,2018,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),118
+Snohomish County (Paine Field),2018,Everett,PAE,All-cargo operations landed weight (thousands of short tons),116
+Gerald R Ford International,2018,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),115
+Willow Run,2018,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),109
+Norfolk International,2018,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),107
+Capital Region International,2018,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),101
+Fort Wayne International,2018,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),97
+Hilo International,2018,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),95
+Guam International,2018,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),95
+Great Falls International,2018,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),94
+Southwest Georgia Regional,2018,Albany,ABY,All-cargo operations landed weight (thousands of short tons),93
+Dane County Regional-Truax Field,2018,Madison,MSN,All-cargo operations landed weight (thousands of short tons),92
+San Bernardino International,2018,San Bernardino,SBD,All-cargo operations landed weight (thousands of short tons),91
+Southwest Florida International,2018,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),90
+Birmingham-Shuttlesworth International,2018,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),89
+New York Stewart International,2018,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),88
+Albany International,2018,Albany,ALB,All-cargo operations landed weight (thousands of short tons),84
+Long Beach /Daugherty Field/,2018,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),84
+Mobile Downtown,2018,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),83
+Tucson International,2018,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),80
+Springfield-Branson National,2018,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),71
+Roanoke-Blacksburg Regional/Woodrum Field,2018,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),69
+Bill and Hillary Clinton National/Adams Field,2018,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),68
+Appleton International,2018,Appleton,ATW,All-cargo operations landed weight (thousands of short tons),64
+Lihue,2018,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),64
+Kelly Field,2018,San Antonio,SKF,All-cargo operations landed weight (thousands of short tons),63
+Toledo Express,2018,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),61
+Fresno Yosemite International,2018,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),59
+General Downing - Peoria International,2018,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),56
+Lafayette Regional/Paul Fournet Field,2018,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),55
+Fairbanks International,2018,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),54
+City of Colorado Springs Municipal,2018,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),43
+Bishop International,2018,Flint,FNT,All-cargo operations landed weight (thousands of short tons),43
+Jackson-Medgar Wiley Evers International,2018,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),40
+James M Cox Dayton International,2018,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),31
+March ARB,2018,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),30
+Lovell Field,2018,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),28
+Thief River Falls Regional,2018,Thief River Falls,TVF,All-cargo operations landed weight (thousands of short tons),21
+Bangor International,2018,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),13
+Garden City Regional,2018,Garden City,GCK,All-cargo operations landed weight (thousands of short tons),4
+Brownsville/South Padre Island International,2018,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),4
+Grand Forks International,2018,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),3
+Gogebic-Iron County,2018,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),3
+Gallup Municipal,2018,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2018,Chico,CIC,All-cargo operations landed weight (thousands of short tons),2
+Portsmouth International at Pease,2018,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),2
+Niagara Falls International,2018,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),2
+Grant County,2018,Silver City,SVC,All-cargo operations landed weight (thousands of short tons),1
+Tucumcari Municipal,2018,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2018,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),0
+St Pete-Clearwater International,2018,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),0
+Memphis International,2019,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"12,172"
+Ted Stevens Anchorage International,2019,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"9,153"
+Louisville Muhammad Ali International,2019,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"7,800"
+Miami International,2019,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"4,618"
+Los Angeles International,2019,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"3,730"
+Cincinnati/Northern Kentucky International,2019,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"3,619"
+Chicago O'Hare International,2019,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"3,272"
+Indianapolis International,2019,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,651"
+Dallas-Fort Worth International,2019,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"2,370"
+Ontario International,2019,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"2,246"
+Metropolitan Oakland International,2019,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,836"
+John F Kennedy International,2019,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,591"
+Hartsfield - Jackson Atlanta International,2019,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,554"
+Newark Liberty International,2019,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,527"
+Daniel K Inouye International,2019,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,414"
+Seattle-Tacoma International,2019,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),"1,240"
+Philadelphia International,2019,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),"1,410"
+George Bush Intercontinental/Houston,2019,Houston,IAH,All-cargo operations landed weight (thousands of short tons),"1,201"
+Chicago/Rockford International,2019,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),"1,186"
+Phoenix Sky Harbor International,2019,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),"1,106"
+Portland International,2019,Portland,PDX,All-cargo operations landed weight (thousands of short tons),"1,011"
+Denver International,2019,Denver,DEN,All-cargo operations landed weight (thousands of short tons),822
+Tampa International,2019,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),673
+Luis Munoz Marin International,2019,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),613
+Baltimore/Washington International Thurgood Marshall,2019,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),690
+Rickenbacker International,2019,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),615
+Salt Lake City International,2019,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),601
+Minneapolis-St Paul International/Wold-Chamberlain,2019,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),558
+San Francisco International,2019,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),514
+Orlando International,2019,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),643
+General Edward Lawrence Logan International,2019,Boston,BOS,All-cargo operations landed weight (thousands of short tons),512
+Bradley International,2019,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),631
+San Antonio International,2019,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),480
+Fort Worth Alliance,2019,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),508
+Detroit Metropolitan Wayne County,2019,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),447
+Boeing Field/King County International,2019,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),377
+Sacramento International,2019,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),353
+El Paso International,2019,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),316
+Piedmont Triad International,2019,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),467
+Lehigh Valley International,2019,Allentown,ABE,All-cargo operations landed weight (thousands of short tons),323
+Laredo International,2019,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),255
+Charlotte/Douglas International,2019,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),392
+General Mitchell International,2019,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),301
+San Diego International,2019,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),307
+Kansas City International,2019,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),288
+Pittsburgh International,2019,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),276
+Albuquerque International Sunport,2019,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),273
+Sacramento Mather,2019,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),273
+Reno/Tahoe International,2019,Reno,RNO,All-cargo operations landed weight (thousands of short tons),320
+Manchester,2019,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),277
+Austin-Bergstrom International,2019,Austin,AUS,All-cargo operations landed weight (thousands of short tons),271
+Richmond International,2019,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),264
+Raleigh-Durham International,2019,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),278
+Rafael Hernandez,2019,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),265
+Jacksonville International,2019,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),282
+Washington Dulles International,2019,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),237
+Fort Lauderdale/Hollywood International,2019,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),238
+Spokane International,2019,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),230
+Greenville Spartanburg International,2019,Greer,GSP,All-cargo operations landed weight (thousands of short tons),208
+Huntsville International-Carl T Jones Field,2019,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),209
+Columbia Metropolitan,2019,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),239
+Billings Logan International,2019,Billings,BIL,All-cargo operations landed weight (thousands of short tons),244
+Eppley Airfield,2019,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),235
+Harrisburg International,2019,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),212
+Tulsa International,2019,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),225
+Cleveland-Hopkins International,2019,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),217
+McCarran International,2019,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),208
+Louis Armstrong New Orleans International,2019,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),196
+Lubbock Preston Smith International,2019,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),216
+St Louis Lambert International,2019,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),202
+Valley International,2019,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),183
+Joe Foss Field,2019,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),188
+The Eastern Iowa,2019,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),189
+Syracuse Hancock International,2019,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),218
+Charleston AFB/International,2019,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),199
+Boise Air Terminal/Gowen Field,2019,Boise,BOI,All-cargo operations landed weight (thousands of short tons),182
+Buffalo Niagara International,2019,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),170
+Nashville International,2019,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),147
+Shreveport Regional,2019,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),136
+Ellison Onizuka Kona International at Keahole,2019,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),160
+McGhee Tyson,2019,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),143
+Hector International,2019,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),196
+Greater Rochester International,2019,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),147
+Stockton Metropolitan,2019,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),207
+Des Moines International,2019,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),133
+Will Rogers World,2019,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),132
+Kahului,2019,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),153
+Norman Y Mineta San Jose International,2019,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),119
+Theodore Francis Green State,2019,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),58
+Wichita Dwight D Eisenhower National,2019,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),125
+Snohomish County (Paine Field),2019,Everett,PAE,All-cargo operations landed weight (thousands of short tons),141
+Gerald R Ford International,2019,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),122
+Willow Run,2019,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),88
+Norfolk International,2019,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),106
+Capital Region International,2019,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),115
+Fort Wayne International,2019,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),98
+Hilo International,2019,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),101
+Guam International,2019,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),69
+Great Falls International,2019,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),93
+Southwest Georgia Regional,2019,Albany,ABY,All-cargo operations landed weight (thousands of short tons),103
+Dane County Regional-Truax Field,2019,Madison,MSN,All-cargo operations landed weight (thousands of short tons),93
+San Bernardino International,2019,San Bernardino,SBD,All-cargo operations landed weight (thousands of short tons),176
+Southwest Florida International,2019,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),97
+Birmingham-Shuttlesworth International,2019,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),86
+New York Stewart International,2019,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),129
+Albany International,2019,Albany,ALB,All-cargo operations landed weight (thousands of short tons),84
+Long Beach /Daugherty Field/,2019,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),84
+Mobile Downtown,2019,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),84
+Tucson International,2019,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),80
+Springfield-Branson National,2019,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),69
+Roanoke-Blacksburg Regional/Woodrum Field,2019,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),69
+Bill and Hillary Clinton National/Adams Field,2019,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),77
+Appleton International,2019,Appleton,ATW,All-cargo operations landed weight (thousands of short tons),62
+Lihue,2019,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),84
+Kelly Field,2019,San Antonio,SKF,All-cargo operations landed weight (thousands of short tons),60
+Toledo Express,2019,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),21
+Fresno Yosemite International,2019,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),54
+General Downing - Peoria International,2019,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),64
+Lafayette Regional/Paul Fournet Field,2019,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),57
+Fairbanks International,2019,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),51
+City of Colorado Springs Municipal,2019,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),53
+Bishop International,2019,Flint,FNT,All-cargo operations landed weight (thousands of short tons),43
+Jackson-Medgar Wiley Evers International,2019,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),37
+James M Cox Dayton International,2019,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),30
+March ARB,2019,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),175
+Lovell Field,2019,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),26
+Thief River Falls Regional,2019,Thief River Falls,TVF,All-cargo operations landed weight (thousands of short tons),20
+Bangor International,2019,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),17
+Garden City Regional,2019,Garden City,GCK,All-cargo operations landed weight (thousands of short tons),4
+Brownsville/South Padre Island International,2019,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),23
+Grand Forks International,2019,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),0
+Gogebic-Iron County,2019,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2019,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),3
+Chico Municipal,2019,Chico,CIC,All-cargo operations landed weight (thousands of short tons),2
+Portsmouth International at Pease,2019,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),5
+Niagara Falls International,2019,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),8
+Grant County,2019,Silver City,SVC,All-cargo operations landed weight (thousands of short tons),1
+Tucumcari Municipal,2019,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2019,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),50
+St Pete-Clearwater International,2019,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),
+William P Hobby,2019,Houston,HOU,All-cargo operations landed weight (thousands of short tons),0
+Ellington,2019,Houston,EFD,All-cargo operations landed weight (thousands of short tons),0
+Lakeland Linder International,2019,Lakeland,LAL,All-cargo operations landed weight (thousands of short tons),0
+Rochester International,2019,Rochester,RST,All-cargo operations landed weight (thousands of short tons),0
+Bellingham International,2019,Bellingham,BLI,All-cargo operations landed weight (thousands of short tons),0
+Memphis International,2020,Memphis,MEM,All-cargo operations landed weight (thousands of short tons),"12,578"
+Ted Stevens Anchorage International,2020,Anchorage,ANC,All-cargo operations landed weight (thousands of short tons),"11,441"
+Louisville Muhammad Ali International,2020,Louisville,SDF,All-cargo operations landed weight (thousands of short tons),"8,378"
+Miami International,2020,Miami,MIA,All-cargo operations landed weight (thousands of short tons),"4,965"
+Los Angeles International,2020,Los Angeles,LAX,All-cargo operations landed weight (thousands of short tons),"6,586"
+Cincinnati/Northern Kentucky International,2020,Cincinnati,CVG,All-cargo operations landed weight (thousands of short tons),"4,105"
+Chicago O'Hare International,2020,Chicago,ORD,All-cargo operations landed weight (thousands of short tons),"3,939"
+Indianapolis International,2020,Indianapolis,IND,All-cargo operations landed weight (thousands of short tons),"2,827"
+Dallas-Fort Worth International,2020,Fort Worth,DFW,All-cargo operations landed weight (thousands of short tons),"2,258"
+Ontario International,2020,Ontario,ONT,All-cargo operations landed weight (thousands of short tons),"2,610"
+Metropolitan Oakland International,2020,Oakland,OAK,All-cargo operations landed weight (thousands of short tons),"1,839"
+John F Kennedy International,2020,New York,JFK,All-cargo operations landed weight (thousands of short tons),"1,716"
+Hartsfield - Jackson Atlanta International,2020,Atlanta,ATL,All-cargo operations landed weight (thousands of short tons),"1,583"
+Newark Liberty International,2020,Newark,EWR,All-cargo operations landed weight (thousands of short tons),"1,493"
+Daniel K Inouye International,2020,Honolulu,HNL,All-cargo operations landed weight (thousands of short tons),"1,715"
+Seattle-Tacoma International,2020,Seattle,SEA,All-cargo operations landed weight (thousands of short tons),"1,358"
+Philadelphia International,2020,Philadelphia,PHL,All-cargo operations landed weight (thousands of short tons),"1,574"
+George Bush Intercontinental/Houston,2020,Houston,IAH,All-cargo operations landed weight (thousands of short tons),"1,229"
+Chicago/Rockford International,2020,Rockford,RFD,All-cargo operations landed weight (thousands of short tons),"1,370"
+Phoenix Sky Harbor International,2020,Phoenix,PHX,All-cargo operations landed weight (thousands of short tons),"1,212"
+Portland International,2020,Portland,PDX,All-cargo operations landed weight (thousands of short tons),"1,072"
+Denver International,2020,Denver,DEN,All-cargo operations landed weight (thousands of short tons),914
+Tampa International,2020,Tampa,TPA,All-cargo operations landed weight (thousands of short tons),703
+Luis Munoz Marin International,2020,San Juan,SJU,All-cargo operations landed weight (thousands of short tons),740
+Baltimore/Washington International Thurgood Marshall,2020,Glen Burnie,BWI,All-cargo operations landed weight (thousands of short tons),756
+Rickenbacker International,2020,Columbus,LCK,All-cargo operations landed weight (thousands of short tons),593
+Salt Lake City International,2020,Salt Lake City,SLC,All-cargo operations landed weight (thousands of short tons),669
+Minneapolis-St Paul International/Wold-Chamberlain,2020,Minneapolis,MSP,All-cargo operations landed weight (thousands of short tons),551
+San Francisco International,2020,San Francisco,SFO,All-cargo operations landed weight (thousands of short tons),623
+Orlando International,2020,Orlando,MCO,All-cargo operations landed weight (thousands of short tons),646
+General Edward Lawrence Logan International,2020,Boston,BOS,All-cargo operations landed weight (thousands of short tons),599
+Bradley International,2020,Windsor Locks,BDL,All-cargo operations landed weight (thousands of short tons),607
+San Antonio International,2020,San Antonio,SAT,All-cargo operations landed weight (thousands of short tons),467
+Fort Worth Alliance,2020,Fort Worth,AFW,All-cargo operations landed weight (thousands of short tons),831
+Detroit Metropolitan Wayne County,2020,Detroit,DTW,All-cargo operations landed weight (thousands of short tons),444
+Boeing Field/King County International,2020,Seattle,BFI,All-cargo operations landed weight (thousands of short tons),357
+Sacramento International,2020,Sacramento,SMF,All-cargo operations landed weight (thousands of short tons),357
+El Paso International,2020,El Paso,ELP,All-cargo operations landed weight (thousands of short tons),360
+Piedmont Triad International,2020,Greensboro,GSO,All-cargo operations landed weight (thousands of short tons),376
+Lehigh Valley International,2020,Allentown,ABE,All-cargo operations landed weight (thousands of short tons),287
+Laredo International,2020,Laredo,LRD,All-cargo operations landed weight (thousands of short tons),202
+Charlotte/Douglas International,2020,Charlotte,CLT,All-cargo operations landed weight (thousands of short tons),392
+General Mitchell International,2020,Milwaukee,MKE,All-cargo operations landed weight (thousands of short tons),298
+San Diego International,2020,San Diego,SAN,All-cargo operations landed weight (thousands of short tons),337
+Kansas City International,2020,Kansas City,MCI,All-cargo operations landed weight (thousands of short tons),298
+Pittsburgh International,2020,Pittsburgh,PIT,All-cargo operations landed weight (thousands of short tons),274
+Albuquerque International Sunport,2020,Albuquerque,ABQ,All-cargo operations landed weight (thousands of short tons),304
+Sacramento Mather,2020,Sacramento,MHR,All-cargo operations landed weight (thousands of short tons),299
+Reno/Tahoe International,2020,Reno,RNO,All-cargo operations landed weight (thousands of short tons),309
+Manchester,2020,Manchester,MHT,All-cargo operations landed weight (thousands of short tons),298
+Austin-Bergstrom International,2020,Austin,AUS,All-cargo operations landed weight (thousands of short tons),304
+Richmond International,2020,Highland Springs,RIC,All-cargo operations landed weight (thousands of short tons),292
+Raleigh-Durham International,2020,Raleigh,RDU,All-cargo operations landed weight (thousands of short tons),316
+Rafael Hernandez,2020,Aguadilla,BQN,All-cargo operations landed weight (thousands of short tons),180
+Jacksonville International,2020,Jacksonville,JAX,All-cargo operations landed weight (thousands of short tons),285
+Washington Dulles International,2020,Dulles,IAD,All-cargo operations landed weight (thousands of short tons),271
+Fort Lauderdale/Hollywood International,2020,Fort Lauderdale,FLL,All-cargo operations landed weight (thousands of short tons),196
+Spokane International,2020,Spokane,GEG,All-cargo operations landed weight (thousands of short tons),232
+Greenville Spartanburg International,2020,Greer,GSP,All-cargo operations landed weight (thousands of short tons),199
+Huntsville International-Carl T Jones Field,2020,Huntsville,HSV,All-cargo operations landed weight (thousands of short tons),151
+Columbia Metropolitan,2020,Columbia,CAE,All-cargo operations landed weight (thousands of short tons),236
+Billings Logan International,2020,Billings,BIL,All-cargo operations landed weight (thousands of short tons),259
+Eppley Airfield,2020,Omaha,OMA,All-cargo operations landed weight (thousands of short tons),238
+Harrisburg International,2020,Harrisburg,MDT,All-cargo operations landed weight (thousands of short tons),224
+Tulsa International,2020,Tulsa,TUL,All-cargo operations landed weight (thousands of short tons),198
+Cleveland-Hopkins International,2020,Cleveland,CLE,All-cargo operations landed weight (thousands of short tons),215
+McCarran International,2020,Las Vegas,LAS,All-cargo operations landed weight (thousands of short tons),229
+Louis Armstrong New Orleans International,2020,Metairie,MSY,All-cargo operations landed weight (thousands of short tons),200
+Lubbock Preston Smith International,2020,Lubbock,LBB,All-cargo operations landed weight (thousands of short tons),211
+St Louis Lambert International,2020,St. Louis,STL,All-cargo operations landed weight (thousands of short tons),250
+Valley International,2020,Harlingen,HRL,All-cargo operations landed weight (thousands of short tons),161
+Joe Foss Field,2020,Sioux Falls,FSD,All-cargo operations landed weight (thousands of short tons),189
+The Eastern Iowa,2020,Cedar Rapids,CID,All-cargo operations landed weight (thousands of short tons),203
+Syracuse Hancock International,2020,Syracuse,SYR,All-cargo operations landed weight (thousands of short tons),211
+Charleston AFB/International,2020,Charleston,CHS,All-cargo operations landed weight (thousands of short tons),148
+Boise Air Terminal/Gowen Field,2020,Boise,BOI,All-cargo operations landed weight (thousands of short tons),180
+Buffalo Niagara International,2020,Buffalo,BUF,All-cargo operations landed weight (thousands of short tons),156
+Nashville International,2020,Nashville,BNA,All-cargo operations landed weight (thousands of short tons),143
+Shreveport Regional,2020,Shreveport,SHV,All-cargo operations landed weight (thousands of short tons),132
+Ellison Onizuka Kona International at Keahole,2020,Kailua Kona,KOA,All-cargo operations landed weight (thousands of short tons),171
+McGhee Tyson,2020,Alcoa,TYS,All-cargo operations landed weight (thousands of short tons),149
+Hector International,2020,Fargo,FAR,All-cargo operations landed weight (thousands of short tons),210
+Greater Rochester International,2020,Rochester,ROC,All-cargo operations landed weight (thousands of short tons),155
+Stockton Metropolitan,2020,Stockton,SCK,All-cargo operations landed weight (thousands of short tons),134
+Des Moines International,2020,Des Moines,DSM,All-cargo operations landed weight (thousands of short tons),130
+Will Rogers World,2020,Oklahoma City,OKC,All-cargo operations landed weight (thousands of short tons),140
+Kahului,2020,Kahului,OGG,All-cargo operations landed weight (thousands of short tons),150
+Norman Y Mineta San Jose International,2020,San Jose,SJC,All-cargo operations landed weight (thousands of short tons),113
+Theodore Francis Green State,2020,Warwick,PVD,All-cargo operations landed weight (thousands of short tons),92
+Wichita Dwight D Eisenhower National,2020,Wichita,ICT,All-cargo operations landed weight (thousands of short tons),118
+Snohomish County (Paine Field),2020,Everett,PAE,All-cargo operations landed weight (thousands of short tons),99
+Gerald R Ford International,2020,Grand Rapids,GRR,All-cargo operations landed weight (thousands of short tons),128
+Willow Run,2020,Detroit,YIP,All-cargo operations landed weight (thousands of short tons),63
+Norfolk International,2020,Norfolk,ORF,All-cargo operations landed weight (thousands of short tons),105
+Capital Region International,2020,Clinton (Township of),LAN,All-cargo operations landed weight (thousands of short tons),118
+Fort Wayne International,2020,Fort Wayne,FWA,All-cargo operations landed weight (thousands of short tons),98
+Hilo International,2020,Hilo,ITO,All-cargo operations landed weight (thousands of short tons),96
+Guam International,2020,Tamuning,GUM,All-cargo operations landed weight (thousands of short tons),351
+Great Falls International,2020,Great Falls,GTF,All-cargo operations landed weight (thousands of short tons),94
+Southwest Georgia Regional,2020,Albany,ABY,All-cargo operations landed weight (thousands of short tons),110
+Dane County Regional-Truax Field,2020,Madison,MSN,All-cargo operations landed weight (thousands of short tons),94
+San Bernardino International,2020,San Bernardino,SBD,All-cargo operations landed weight (thousands of short tons),234
+Southwest Florida International,2020,Fort Myers,RSW,All-cargo operations landed weight (thousands of short tons),89
+Birmingham-Shuttlesworth International,2020,Birmingham,BHM,All-cargo operations landed weight (thousands of short tons),87
+New York Stewart International,2020,Newburgh,SWF,All-cargo operations landed weight (thousands of short tons),141
+Albany International,2020,Albany,ALB,All-cargo operations landed weight (thousands of short tons),86
+Long Beach /Daugherty Field/,2020,Long Beach,LGB,All-cargo operations landed weight (thousands of short tons),56
+Mobile Downtown,2020,Mobile,BFM,All-cargo operations landed weight (thousands of short tons),83
+Tucson International,2020,Tucson,TUS,All-cargo operations landed weight (thousands of short tons),82
+Springfield-Branson National,2020,Springfield,SGF,All-cargo operations landed weight (thousands of short tons),63
+Roanoke-Blacksburg Regional/Woodrum Field,2020,Roanoke,ROA,All-cargo operations landed weight (thousands of short tons),68
+Bill and Hillary Clinton National/Adams Field,2020,Little Rock,LIT,All-cargo operations landed weight (thousands of short tons),89
+Appleton International,2020,Appleton,ATW,All-cargo operations landed weight (thousands of short tons),58
+Lihue,2020,Lihue,LIH,All-cargo operations landed weight (thousands of short tons),114
+Kelly Field,2020,San Antonio,SKF,All-cargo operations landed weight (thousands of short tons),40
+Toledo Express,2020,Toledo,TOL,All-cargo operations landed weight (thousands of short tons),17
+Fresno Yosemite International,2020,Fresno,FAT,All-cargo operations landed weight (thousands of short tons),73
+General Downing - Peoria International,2020,Peoria,PIA,All-cargo operations landed weight (thousands of short tons),65
+Lafayette Regional/Paul Fournet Field,2020,Lafayette,LFT,All-cargo operations landed weight (thousands of short tons),64
+Fairbanks International,2020,Fairbanks,FAI,All-cargo operations landed weight (thousands of short tons),66
+City of Colorado Springs Municipal,2020,Colorado Springs,COS,All-cargo operations landed weight (thousands of short tons),52
+Bishop International,2020,Flint,FNT,All-cargo operations landed weight (thousands of short tons),44
+Jackson-Medgar Wiley Evers International,2020,Jackson,JAN,All-cargo operations landed weight (thousands of short tons),0
+James M Cox Dayton International,2020,Dayton,DAY,All-cargo operations landed weight (thousands of short tons),30
+March ARB,2020,Riverside,RIV,All-cargo operations landed weight (thousands of short tons),203
+Lovell Field,2020,Chattanooga,CHA,All-cargo operations landed weight (thousands of short tons),28
+Thief River Falls Regional,2020,Thief River Falls,TVF,All-cargo operations landed weight (thousands of short tons),18
+Bangor International,2020,Bangor,BGR,All-cargo operations landed weight (thousands of short tons),47
+Garden City Regional,2020,Garden City,GCK,All-cargo operations landed weight (thousands of short tons),4
+Brownsville/South Padre Island International,2020,Brownsville,BRO,All-cargo operations landed weight (thousands of short tons),6
+Grand Forks International,2020,Grand Forks,GFK,All-cargo operations landed weight (thousands of short tons),0
+Gogebic-Iron County,2020,Ironwood,IWD,All-cargo operations landed weight (thousands of short tons),2
+Gallup Municipal,2020,Gallup,GUP,All-cargo operations landed weight (thousands of short tons),2
+Chico Municipal,2020,Chico,CIC,All-cargo operations landed weight (thousands of short tons),0
+Portsmouth International at Pease,2020,Portsmouth,PSM,All-cargo operations landed weight (thousands of short tons),1
+Niagara Falls International,2020,Niagara Falls,IAG,All-cargo operations landed weight (thousands of short tons),0
+Grant County,2020,Silver City,SVC,All-cargo operations landed weight (thousands of short tons),0
+Tucumcari Municipal,2020,Tucumcari,TCC,All-cargo operations landed weight (thousands of short tons),1
+South Bend International,2020,South Bend,SBN,All-cargo operations landed weight (thousands of short tons),51
+St Pete-Clearwater International,2020,Clearwater,PIE,All-cargo operations landed weight (thousands of short tons),
+William P Hobby,2020,Houston,HOU,All-cargo operations landed weight (thousands of short tons),0
+Ellington,2020,Houston,EFD,All-cargo operations landed weight (thousands of short tons),0
+Lakeland Linder International,2020,Lakeland,LAL,All-cargo operations landed weight (thousands of short tons),102
+Rochester International,2020,Rochester,RST,All-cargo operations landed weight (thousands of short tons),35
+Bellingham International,2020,Bellingham,BLI,All-cargo operations landed weight (thousands of short tons),5
